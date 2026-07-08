@@ -134,7 +134,7 @@ $suspiciousPatterns = @(
 
 $cheatStrings = @(
     "AutoCrystal", "autocrystal", "auto crystal", "cw crystal", "JDWP.VirtualMachine.AllModules",
-    "dontPlaceCrystal", "dontBreakCrystal"AutoHitCrystal", "autohitcrystal", "canPlaceCrystalServer", "healPotSlot",
+    "dontPlaceCrystal", "dontBreakCrystal" "AutoHitCrystal", "autohitcrystal", "canPlaceCrystalServer", "healPotSlot",
     "ＡｕｔｏＣｒｙｓｔａｌ", "Ａｕｔｏ Ｃｒｙｓｔａｌ",
     "ＡｕｔｏＨｉｔＣｒｙｓｔａｌ",
     "AutoAnchor", "autoanchor", "auto anchor", "DoubleAnchor",
